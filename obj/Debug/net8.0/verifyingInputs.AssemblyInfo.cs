@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("verifyingInputs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dcb18b28986cc24557676e9838371b1bf2b7233c")]
 [assembly: System.Reflection.AssemblyProductAttribute("verifyingInputs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("verifyingInputs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
